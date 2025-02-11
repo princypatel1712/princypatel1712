@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prinsi Patel</h1>
+<h1 align="center">Hi 👋, I'm Princy Patel</h1>
 - 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **princypatel2022@gmail.com**
