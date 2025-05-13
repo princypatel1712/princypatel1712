@@ -1,5 +1,5 @@
 <h1 align="center"><b></b>Hi 👋, I'm Princy Patel</b></h1>
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning Machine learning and python
 
 - 📫 How to reach me **princypatel2022@gmail.com**
 
